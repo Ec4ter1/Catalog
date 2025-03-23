@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\aplicatie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|e:\\aplicatie\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|e:\\aplicatie\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|E:\\aplicatie\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C5A385-071B-4D0C-85B9-522EE2B8FD54}|aplicatie.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "E:\\aplicatie\\Form6.cs [Design]*",
+              "RelativeToolTip": "Form6.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:13:51.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\aplicatie\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-25T09:29:36.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\aplicatie\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAIAwwCEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T19:55:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "E:\\aplicatie\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-25T17:37:17.024Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\aplicatie\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAA9wHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-25T09:32:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "E:\\aplicatie\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowFAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-25T18:43:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\aplicatie\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-25T17:37:10.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\aplicatie\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-04-25T18:45:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "E:\\aplicatie\\Form6.cs*",
+              "RelativeToolTip": "Form6.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-26T05:24:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "E:\\aplicatie\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:22:20.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "E:\\aplicatie\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\aplicatie\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-04-25T18:45:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "E:\\aplicatie\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-04-25T18:48:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\aplicatie\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "E:\\aplicatie\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-04-26T05:16:37.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

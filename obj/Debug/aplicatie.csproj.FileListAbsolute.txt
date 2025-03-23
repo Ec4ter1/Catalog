@@ -1,0 +1,15 @@
+D:\aplicatie\bin\Debug\aplicatie.exe.config
+D:\aplicatie\bin\Debug\aplicatie.exe
+D:\aplicatie\bin\Debug\aplicatie.pdb
+D:\aplicatie\obj\Debug\aplicatie.csproj.AssemblyReference.cache
+D:\aplicatie\obj\Debug\aplicatie.Form1.resources
+D:\aplicatie\obj\Debug\aplicatie.Properties.Resources.resources
+D:\aplicatie\obj\Debug\aplicatie.csproj.GenerateResource.cache
+D:\aplicatie\obj\Debug\aplicatie.csproj.CoreCompileInputs.cache
+D:\aplicatie\obj\Debug\aplicatie.exe
+D:\aplicatie\obj\Debug\aplicatie.pdb
+D:\aplicatie\obj\Debug\aplicatie.Form2.resources
+D:\aplicatie\obj\Debug\aplicatie.Form3.resources
+D:\aplicatie\obj\Debug\aplicatie.Form4.resources
+D:\aplicatie\obj\Debug\aplicatie.Form5.resources
+D:\aplicatie\obj\Debug\aplicatie.Form6.resources
